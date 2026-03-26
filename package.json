@@ -1,0 +1,15 @@
+{
+  "name": "weather-api",
+  "version": "1.0.0",
+  "description": "SkyFetch - Weather Dashboard using OpenWeatherMap API",
+  "main": "index.html",
+  "scripts": {
+"dev": "live-server . --port=3000 --host=localhost --open=true",
+    "start": "live-server . --port=3000 --host=localhost --open=true"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
